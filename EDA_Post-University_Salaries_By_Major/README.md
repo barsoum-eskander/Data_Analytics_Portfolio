@@ -1,6 +1,7 @@
 # 💰 Post-University Salaries 
 
 This is an exploratory data analysis of post-university salaries using the `pandas` library
+
 * Do you wanna know which major has the highest earning potential ? 💸
 * Do you wanna know which major has the lowest earning risk ? 📈
 
