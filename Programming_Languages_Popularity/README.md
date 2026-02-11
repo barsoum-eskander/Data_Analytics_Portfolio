@@ -3,6 +3,7 @@
 This is an exploratory data analysis of programming languages popularity on Stack Overflow using `Pandas`, `Matplotlib`, `Numpy` and `datetime` libraries 
 
 * SQL 🗃️🔗 for Data Extraction from Stackexchange 🔍
+* Data Visualization with Matplotlib
 * Do you wanna know which programming language is the most popular on Stack Over flow? 📈
 
 
