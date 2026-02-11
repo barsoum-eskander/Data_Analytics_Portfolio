@@ -4,5 +4,5 @@ A collection of Data Exploration & Analysis projects using **Pandas**, **Scikit-
 
 ## 📂 Projects
 * [EDA_Post-University_Salaries_By_Major](./EDA_Post-University_Salaries_By_Major) - EDA of post-university salaries.
-* [Programming_Languages_Popularity](./Programming_Languages_Popularity) - EDA, Stack Overflow Data Extraction with **SQL**, and Visualization with **Matplotlib**.
+* [Programming_Languages_Popularity](./Programming_Languages_Popularity) - EDA, Stack Overflow ***Data Extraction*** with **SQL**, and ***Visualization*** with **Matplotlib**.
 * *(More coming soon...)*
